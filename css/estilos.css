@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    overflow-x: hidden;
+   
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'DM Mono', monospace;
+
+}
+h2{
+    font-family: 'DM Mono', monospace;
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h5{
+    font-size: 15px;
+    font-weight: 300;
+}
+
+#Navbar a i{
+    background: white;
+}
+#Carusel{
+    padding-top: 70px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
